@@ -1,8 +1,8 @@
 # Pokedex
 
-The pokedex is a device from the video game or animated series that allows you to view the statistics of the different pokemon.
+Pokedex is a web application for quickly and easily searching for and viewing information about Pokémon.
 
-- [PokeAPI](https://pokeapi.co/)
+- [API](https://pokeapi.co/)
 - [🌐 Website Demo.](https://bryangrandon.github.io/Pokedex/)
 
 ## 📚 Technologies Used
@@ -23,7 +23,7 @@ git clone https://github.com/BryanGrandon/Pokedex.git
 Access the project folder
 
 ```bash
-cd Color-Palette
+cd Pokedex
 ```
 
 Install all the project dependencies with:
